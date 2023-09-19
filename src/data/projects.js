@@ -8,8 +8,8 @@ export default function getProjects() {
         projectInfo:
          "My profile for fullstack",
         techUsed: ["ReactJs", "Redux","Chakra UI", "HTML", "CSS"],
-        projectLinkHosted: "https://babygupta05.github.io/",
-        projectLinkGithub: "https://github.com/BabyGupta05/BabyGupta05.github.io",
+        projectLinkHosted: "https://kuntalkumar.github.io/",
+        projectLinkGithub: "https://github.com/kuntalkumar/kuntalkumar.github.io",
       },
       {
        
@@ -38,7 +38,8 @@ export default function getProjects() {
         projectInfo:
           "It's a Portfolio App anyone can see my all project, skills, contact details, etc.",
         techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: "https://pharmeasy-web-site-clone.netlify.app/",
+        projectLinkHosted: "https://starlit-semifreddo-bb6246.netlify.app/",
+        projectLinkGithub: "https://github.com/kuntalkumar/Unit_4_Project_Pharmeasy",
        
       }
     ];
