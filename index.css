@@ -1,8 +1,0 @@
-#nav , #Rnav{
-    display: flex;
-    justify-content: space-between;
-}
-#Rnav{
-    justify-content: space-around;
-    gap: 10px;
-}
