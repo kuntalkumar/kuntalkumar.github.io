@@ -18,7 +18,7 @@ export const Github = () => {
         fontSize={16}
         blockSize={15}
         year={2023}
-        username="BabyGupta05"
+        username="kuntalkumar"
       />
       </div>
       <div data-aos="fade-up" style={{display:'flex', justifyContent:'center', alignItems:'center', marginTop:'3rem'}}>
@@ -27,7 +27,7 @@ export const Github = () => {
         
         id="github-top-langs"
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=BabyGupta05&theme=neon&border_radius=2.7"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntallumar&theme=neon&border_radius=2.7"
           alt="Bharat-Shaw"
         />
       </div>
@@ -35,13 +35,13 @@ export const Github = () => {
         <img
         id="github-stats-card"
           align="center"
-          src="https://github-readme-stats.vercel.app/api?username=BabyGupta05&theme=neon&border_radius=2.7&show_icons=true"
+          src="https://github-readme-stats.vercel.app/api?username=kuntalkumar&theme=neon&border_radius=2.7&show_icons=true"
           alt="Bharat-Shaw"
         />
         <img
         id="github-streak-stats"
           align="center"
-          src="https://github-readme-streak-stats.herokuapp.com/?user=BabyGupta05&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=kuntalkumar&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
           alt="Bharat-Shaw"
         />
       </div>

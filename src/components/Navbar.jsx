@@ -1,10 +1,10 @@
-import resume from './../resume/Baby_Gupta_Resume.pdf'
+import resume from './../resume/Kuntal-Kumar_Resume.pdf'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faBars, faXmark } from "@fortawesome/free-solid-svg-icons";
 export default function Navbar({ handleClick, boolean }) {
 
   const handleDownload = () => {
-    window.open('https://drive.google.com/file/d/1kTxHHUiy0Oe6uMvcbtcGV7wllQVgshqq/view?usp=sharing', '_blank');
+    window.open("https://drive.google.com/file/d/1kTxHHUiy0Oe6uMvcbtcGV7wllQVgshqq/view?usp=sharing", '_blank');
   };
 
   const topwindows = () => {
@@ -18,8 +18,8 @@ export default function Navbar({ handleClick, boolean }) {
       <div id="logo-nav">
         <h1 className="nav-link home">
           <a className="sauce name rubber" href="#home">
-            Baby Gupta
-          </a>
+          Kuntal Kumar 
+         </a>
         </h1>
         <div className="ham-container">
           <a rel="noreferrer" href={resume} 
@@ -62,7 +62,7 @@ export default function Navbar({ handleClick, boolean }) {
       <a 
       href={resume} 
       onClick={handleDownload} 
-      rel="noreferrer" download={'Baby_Gupta_Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
+      rel="noreferrer" download={'Kuntal-Kumar-Resume'} id="resume-button-1" className="contact-button nav-link resume resume-button second-btn">
         Resume</a>
     </nav>
   );
