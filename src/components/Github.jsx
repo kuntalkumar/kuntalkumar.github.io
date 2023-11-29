@@ -28,7 +28,7 @@ export const Github = () => {
         id="github-top-langs"
           align="center"
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntallumar&theme=neon&border_radius=2.7"
-          alt="Bharat-Shaw"
+          alt="kuntal kumar"
         />
       </div>
       <div  data-aos="fade-up" style={{display:'flex', justifyContent:'center', gap:'10px', marginTop:'3rem'}} id="github-stat" >
@@ -36,13 +36,13 @@ export const Github = () => {
         id="github-stats-card"
           align="center"
           src="https://github-readme-stats.vercel.app/api?username=kuntalkumar&theme=neon&border_radius=2.7&show_icons=true"
-          alt="Bharat-Shaw"
+          alt="kuntal kumar"
         />
         <img
         id="github-streak-stats"
           align="center"
           src="https://github-readme-streak-stats.herokuapp.com/?user=kuntalkumar&theme=neon&border_radius=2.7&date_format=M%20j%5B%2C%20Y%5D"
-          alt="Bharat-Shaw"
+          alt="kuntal kumar"
         />
       </div>
     </section>
