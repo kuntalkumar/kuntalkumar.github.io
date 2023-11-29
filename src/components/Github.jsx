@@ -27,7 +27,7 @@ export const Github = () => {
         
         id="github-top-langs"
           align="center"
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntallumar&theme=neon&border_radius=2.7"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalkumar&theme=neon&border_radius=2.7"
           alt="kuntal kumar"
         />
       </div>
