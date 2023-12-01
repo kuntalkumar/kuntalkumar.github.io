@@ -17,7 +17,7 @@ export default function getProjects() {
         image:'Faballey.png',
         projectTitle: "Faballey",
         projectInfo:
-         "clone of faballey ecommerce",
+         "Clone of faballey ecommerce , where you can purchase your fevorite cloths and fashion accerries ",
         techUsed: ["JavaScript", "HTML", "CSS"],
         projectLinkHosted: "https://faballey-web.netlify.app/",
         projectLinkGithub: "https://github.com/BabyGupta05/faballey",
@@ -26,7 +26,7 @@ export default function getProjects() {
         id: 3,
         projectTitle: "IKEA",
         image:'Ikea.png',
-        projectInfo: "It's a clone of IKEA app created using HTML, CSS, js",
+        projectInfo: "It's a clone of IKEA app created  where you can purchase your fevorite products and  accerries using HTML, CSS, js",
         techUsed: ["HTML", "CSS"],
         projectLinkHosted: "https://ik-ea-clone.vercel.app/",
        
@@ -36,7 +36,7 @@ export default function getProjects() {
         projectTitle: "PharmEasy",
         image:"PharmEasy.png",
         projectInfo:
-          "It's a Portfolio App anyone can see my all project, skills, contact details, etc.",
+          " where you can purchase your medicine  and beauty products all are at same place  , ",
         techUsed: ["JavaScript", "HTML", "CSS"],
         projectLinkHosted: "https://starlit-semifreddo-bb6246.netlify.app/",
         projectLinkGithub: "https://github.com/kuntalkumar/Unit_4_Project_Pharmeasy",

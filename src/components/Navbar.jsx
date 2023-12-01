@@ -7,6 +7,9 @@ export default function Navbar({ handleClick, boolean }) {
     window.open("https://drive.google.com/file/d/1kTxHHUiy0Oe6uMvcbtcGV7wllQVgshqq/view?usp=sharing", '_blank');
   };
 
+
+
+  
   const topwindows = () => {
     window.scrollTo({
       top: 0,

@@ -21,7 +21,7 @@ export const Github = () => {
         username="kuntalkumar"
       />
       </div>
-      <div data-aos="fade-up" style={{display:'flex', justifyContent:'center', alignItems:'center', marginTop:'3rem'}}>
+      <div data-aos="fade-up" style={{display:'flex',  justifyContent:'center', alignItems:'center', marginTop:'3rem'}}>
 
         <img
         
@@ -31,7 +31,7 @@ export const Github = () => {
           alt="kuntal kumar"
         />
       </div>
-      <div  data-aos="fade-up" style={{display:'flex', justifyContent:'center', gap:'10px', marginTop:'3rem'}} id="github-stat" >
+      <div  data-aos="fade-up" style={{display:'flex', justifyContent:'center', flexDirection:"column", gap:'10px', marginTop:'3rem'}} id="github-stat" >
         <img
         id="github-stats-card"
           align="center"
