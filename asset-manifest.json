@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e4647b97.css",
-    "main.js": "/static/js/main.ee9ee8c9.js",
+    "main.js": "/static/js/main.e7da3f34.js",
     "static/media/Faballey.png": "/static/media/Faballey.41a9a195c76db9494bc6.png",
     "static/media/Nykaa-clone.png": "/static/media/Nykaa-clone.1158871b012463cec731.png",
     "static/media/tata1mg.png": "/static/media/tata1mg.b95843a04c41e40748c4.png",
@@ -10,13 +10,13 @@
     "static/media/PharmEasy.png": "/static/media/PharmEasy.6f5de2ba8e64d06c1169.png",
     "static/media/portfolio.png": "/static/media/portfolio.7984f357bd9c5a95a699.png",
     "static/media/Kuntal-Kumar_Resume.pdf": "/static/media/Kuntal-Kumar_Resume.47ceee2306710225ca46.pdf",
-    "static/media/personal.png": "/static/media/personal.b1c2427d1f91b2cc48bf.png",
+    "static/media/personal.png": "/static/media/personal.b0bcd9261ff7bea0ddf7.png",
     "index.html": "/index.html",
     "main.e4647b97.css.map": "/static/css/main.e4647b97.css.map",
-    "main.ee9ee8c9.js.map": "/static/js/main.ee9ee8c9.js.map"
+    "main.e7da3f34.js.map": "/static/js/main.e7da3f34.js.map"
   },
   "entrypoints": [
     "static/css/main.e4647b97.css",
-    "static/js/main.ee9ee8c9.js"
+    "static/js/main.e7da3f34.js"
   ]
 }
