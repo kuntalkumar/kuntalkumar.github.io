@@ -11,6 +11,18 @@ export default function getProjects() {
         projectLinkHosted: "https://kuntalkumar.github.io/",
         projectLinkGithub: "https://github.com/kuntalkumar/kuntalkumar.github.io",
       },
+      
+      {
+        id: 4,
+        projectTitle: "PharmEasy",
+        image:"PharmEasy.png",
+        projectInfo:
+          " where you can purchase your medicine  and beauty products all are at same place  , ",
+        techUsed: ["JavaScript", "HTML", "CSS"],
+        projectLinkHosted: "https://starlit-semifreddo-bb6246.netlify.app/",
+        projectLinkGithub: "https://github.com/kuntalkumar/Unit_4_Project_Pharmeasy",
+       
+      },
       {
        
         id: 2,
@@ -29,17 +41,6 @@ export default function getProjects() {
         projectInfo: "It's a clone of IKEA app created  where you can purchase your fevorite products and  accerries using HTML, CSS, js",
         techUsed: ["HTML", "CSS"],
         projectLinkHosted: "https://ik-ea-clone.vercel.app/",
-       
-      },
-      {
-        id: 4,
-        projectTitle: "PharmEasy",
-        image:"PharmEasy.png",
-        projectInfo:
-          " where you can purchase your medicine  and beauty products all are at same place  , ",
-        techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: "https://starlit-semifreddo-bb6246.netlify.app/",
-        projectLinkGithub: "https://github.com/kuntalkumar/Unit_4_Project_Pharmeasy",
        
       }
     ];
