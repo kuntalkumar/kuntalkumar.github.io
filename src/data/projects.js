@@ -20,7 +20,7 @@ export default function getProjects() {
          "Clone of faballey ecommerce , where you can purchase your fevorite cloths and fashion accerries ",
         techUsed: ["JavaScript", "HTML", "CSS"],
         projectLinkHosted: "https://faballey-web.netlify.app/",
-        projectLinkGithub: "https://github.com/BabyGupta05/faballey",
+        projectLinkGithub: "https://github.com/BabyGup/faballey",
       },
       {
         id: 3,
