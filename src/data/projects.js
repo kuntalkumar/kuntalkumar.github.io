@@ -42,7 +42,7 @@ export default function getProjects() {
       projectTitle: "Chatbot AI",
       projectInfo: "An AI-powered chatbot using Google's Gemini Language Model for smart interactions.",
       techUsed: ["React", "Vite", "Chakra UI", "React Markdown"],
-      projectLinkHosted: "Not Available",
+      projectLinkHosted: "",
       projectLinkGithub: "https://github.com/kuntalkumar/lazy-scholar.ai/tree/main",
     },
     {
