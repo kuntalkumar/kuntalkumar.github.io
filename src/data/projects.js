@@ -13,11 +13,11 @@ export default function getProjects() {
       },
       
       {
-        id: 4,
-        projectTitle: "PharmEasy",
+        id: 2,
+        projectTitle: "Wander Lust",
         image:"PharmEasy.png",
         projectInfo:
-          " where you can purchase your medicine  and beauty products all are at same place  , ",
+          " Your travell partner , explore the world with us   , ",
         techUsed: ["JavaScript", "HTML", "CSS"],
         projectLinkHosted: "https://starlit-semifreddo-bb6246.netlify.app/",
         projectLinkGithub: "https://github.com/kuntalkumar/Unit_4_Project_Pharmeasy",
@@ -25,23 +25,23 @@ export default function getProjects() {
       },
       {
        
-        id: 2,
+        id: 3,
         image:'Faballey.png',
-        projectTitle: "Faballey",
+        projectTitle: "Bialetti",
         projectInfo:
-         "Clone of faballey ecommerce , where you can purchase your fevorite cloths and fashion accerries ",
-        techUsed: ["JavaScript", "HTML", "CSS"],
-        projectLinkHosted: "https://faballey-web.netlify.app/",
-        projectLinkGithub: "https://github.com/BabyGup/faballey",
+         "Bialetti is an online coffe shop website, where you can purchase your fevorite Coffee and Coffee making accerries ",
+        techUsed: ["React", "Redux", "CSS","Chakra ui"],
+        projectLinkHosted: "https://66a1386fbdc91f0c85d26a47--magenta-puffpuff-014b5f.netlify.app/",
+        projectLinkGithub: "https://github.com/kuntalkumar/Online_Coffee_Shop",
       },
       {
-        id: 3,
-        projectTitle: "IKEA",
+        id: 4,
+        projectTitle: "Online Cycle Shop",
         image:'Ikea.png',
-        projectInfo: "It's a clone of IKEA app created  where you can purchase your fevorite products and  accerries using HTML, CSS, js",
-        techUsed: ["HTML", "CSS"],
-        projectLinkHosted: "https://ik-ea-clone.vercel.app/",
-       
+        projectInfo: "It is an Online Cycle Shop website, where you can purchase your fevorite Cycle and Cycle accerries",
+        techUsed: ["HTML", "CSS", "JAVASCRIPT"],
+        projectLinkHosted: "https://sprightly-phoenix-7d7782.netlify.app/",
+        projectLinkGithub:"https://github.com/kuntalkumar/onlinecycleapp",
       }
     ];
   }
