@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0c164e8.css",
+    "main.js": "/static/js/main.ce609db7.js",
+    "static/media/MapClustering.png": "/static/media/MapClustering.07ca60cafeb0144b8ac1.png",
+    "static/media/Cycle.png": "/static/media/Cycle.1c3db5a51ee3da842a2c.png",
+    "static/media/Bialetti.png": "/static/media/Bialetti.a81fda6e679af747fab0.png",
+    "static/media/wanderlust.png": "/static/media/wanderlust.6f7d561fc79e1076857f.png",
+    "static/media/personal.png": "/static/media/personal.caf703ac2df342f5747c.png",
+    "static/media/portfolio.png": "/static/media/portfolio.7984f357bd9c5a95a699.png",
+    "static/media/Kuntal-Kumar_Resume.pdf": "/static/media/Kuntal-Kumar_Resume.47ceee2306710225ca46.pdf",
+    "static/media/chatBot.png": "/static/media/chatBot.38f3adefef7b0fbee51f.png",
+    "index.html": "/index.html",
+    "main.d0c164e8.css.map": "/static/css/main.d0c164e8.css.map",
+    "main.ce609db7.js.map": "/static/js/main.ce609db7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c164e8.css",
+    "static/js/main.ce609db7.js"
+  ]
+}
